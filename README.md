@@ -1,3 +1,8 @@
-#First Try
+# First try
 
-This is the first project/response on GitHub
+## Intro
+This is Jerry's first project/response on GitHub for DATA 100
+
+## Link
+
+[GitHub](http://github.com)
