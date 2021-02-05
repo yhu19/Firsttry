@@ -1,4 +1,4 @@
-# First try
+# Informal responses
 
 ## Intro
 This is Jerry's first project/response on GitHub for DATA 100
