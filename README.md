@@ -7,7 +7,7 @@ This is Jerry's responses on GitHub for DATA 100
 
 ## Informal responses
 
-![](Challenge #1.png)
+![Challenge Problems](Challenge #1.png)
 
 
 
