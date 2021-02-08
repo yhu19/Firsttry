@@ -6,7 +6,7 @@ Welcome to my Github for DATA 100 Wicked Problems. I'm Jerry Hu and I'm from Arl
 
 
 ## Informal responses
-[Challenge Problems]![Challenge Problem](challenge1.png)
+[Challenge Problems](![Challenge Problem](challenge1.png))
 
 
 
