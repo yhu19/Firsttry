@@ -9,5 +9,5 @@ Welcome to my Github for DATA 100 Wicked Problems. I'm Jerry Hu and I'm from Arl
 
 [Challenge Problem](https://raw.githubusercontent.com/yhu19/data100repository/main/challenge1.png)
 
-
+![challenge_problem](challenge1.png)
 
