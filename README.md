@@ -9,5 +9,7 @@ Welcome to my Github for DATA 100 Wicked Problems. I'm Jerry Hu and I'm from Arl
 
 [Challenge Problem](challenge1.md)
 
+[Spatial Population](hong_kong.md)
+
 
 
