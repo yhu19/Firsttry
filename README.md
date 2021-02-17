@@ -9,10 +9,7 @@ Welcome to my Github for DATA 100 Wicked Problems. I'm Jerry Hu and I'm from Arl
 
 [Challenge Problem](challenge1.md)
 
-
-## Projects
-
-[Project 1](hong_kong.md)
+[Project 1](jaimaca.md)
 
 
 
