@@ -5,7 +5,7 @@
 
 The first graph is for the individual challenge, and the second graph is for the individual stretch goals.
 
-![](ind_cha.png)
+![](ind_cha.png
 
 ![](str_goals.png)
 
