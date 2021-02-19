@@ -11,5 +11,7 @@ Welcome to my Github for DATA 100 Wicked Problems. I'm Jerry Hu and I'm from Arl
 
 [Spatial population description](jamaica.md)
 
+[Reflection 1](reflection_1.md)
+
 
 
