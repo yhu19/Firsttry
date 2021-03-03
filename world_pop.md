@@ -7,4 +7,4 @@
 ### Stretch goal 2
 ![](slv_sg2.jpg)
 ### Stretch goal 3
-![](sd.PNG)
+![](3d.PNG)
