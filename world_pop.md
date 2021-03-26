@@ -9,6 +9,6 @@
 ### Stretch goal 3
 ![](3d.PNG)
 ### Bar Plot
-![](elsal.PNG)
+![](elsal.png)
 ### Deliverable
 ![](slv_adm2_bp.png)
