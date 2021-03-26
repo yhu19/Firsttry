@@ -8,3 +8,7 @@
 ![](slv_sg2.jpg)
 ### Stretch goal 3
 ![](3d.PNG)
+### Bar Plot
+![](elsal.PNG)
+### Deliverable
+![](slv_adm2_bp.png)
