@@ -14,6 +14,9 @@ Welcome to my Github for DATA 100 Wicked Problems. I'm Jerry Hu and I'm from Arl
 
 [Project 3](prj3.md)
 
+
+[Project 4](prj4.md)
+
 ## Informal responses
 
 [Challenge Problem](challenge1.md)
