@@ -5,7 +5,7 @@
 ### Albania
 ![](p4_1.png)
 
-### Tiranë
+### Tiranë - Capital of Albania
 ![](p4_2.png)
 ![](p4_3.png)
 ![](p4_4.png)
